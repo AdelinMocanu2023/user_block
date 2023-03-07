@@ -1,0 +1,5 @@
+name: User block
+description: 'Builds a custom block with user name.'
+package: Custom
+type: module
+core_version_requirement: ^9.0 || ^10.0
